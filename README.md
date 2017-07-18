@@ -1,1 +1,1 @@
-B.L.I.N.D. is a minimal, CentOS-based text-based operating system that takes away the ability to "see" and "hear" and leaves only the ability to "think". There is no ETA for completion.
+B.L.I.N.D. is a tool that would utilize CentOS's ability to work as a CLI-only operating system with no GUI interface. There is no date for completion yet.
