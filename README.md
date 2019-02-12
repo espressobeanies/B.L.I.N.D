@@ -1,1 +1,3 @@
-B.L.I.N.D. is a tool that would utilize CentOS's ability to work as a CLI-only operating system with no GUI interface. There is no date for completion yet.
+B.L.I.N.D. is a collection of programs that utilizes CentOS's ability to work as a CLI-only operating system while maintaining the same functionality as a GUI-based OS installation.
+
+This script requires CentOS NetInstall to be already installed: https://wiki.centos.org/Download
